@@ -79267,7 +79267,7 @@ return null},
 $S:480}
 A.K9.prototype={
 L(a){var s=null,r=A.b([new A.vV(new A.tY(new A.a72(),s,s,A.aLD(),A.aKr(),t.TD),s,s,s,s,t.Mt)],t.Ds)
-return A.aEd(new A.yl(new A.Au(s),"Flutter Demo",A.tz(s,A.arR(B.ai,s,s,B.Hh),!0),!1,s),r)}}
+return A.aEd(new A.yl(new A.Au(s),"Tracky",A.tz(s,A.arR(B.ai,s,s,B.Hh),!0),!1,s),r)}}
 A.a72.prototype={
 $1(a){return new A.fE(A.b([],t.j4),new A.a2v(t.PG.a($.ann().Ao("expense_data",!1,t.z))),$.au())},
 $S:481}
